@@ -40,8 +40,14 @@
       </div>
     </div>
   </div>
-   </div>
 </div>
+<div class="row my-4">
+ <div class="col">
+<h3 class="text-end">Общая сумма товаров: ₸2.535.800 </h3>
+ </div>
+</div>
+</div>
+
 
 </template>
 
